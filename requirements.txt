@@ -1,5 +1,6 @@
 numpy
 matplotlib
-opencv
+opencv-python
+scikit-learn
 imutils
 
